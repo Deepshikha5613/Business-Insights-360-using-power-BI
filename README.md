@@ -155,9 +155,6 @@ Fact table : It will have the data about the transactions
 
 <img src=https://github.com/Deepshikha5613/Insightful-Business-Explorer/blob/main/Data_model.png>
 
-### Dashboard designing
-
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
 ## Home view
 
@@ -173,8 +170,7 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 
-you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiZTk3M2M5ZTctNDBiMy00MTk5LWFjMWMtOGNlNzcwMGQ1NWM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
-
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiMTUxMmZhNTItNTRiNy00NDM4LWFhZmQtYWVmZTM3Mzg1MTk3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection8f09cb854c0c53d6e209)
 
 ## Project Outcome
 
